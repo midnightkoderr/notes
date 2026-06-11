@@ -1,5 +1,11 @@
 # Notes
 
+## init termux
+
+```bash
+curl -fsSL https://gist.githubusercontent.com/midnightkoderr/1d1dc5ab4126fadc86ad6e6dba240952/raw/7a2c992f762d71d17b4ceeaed5bfb878b7b4be77/termux_init.sh | bash
+```
+
 ## install llama-cpp
 
 ```bash
